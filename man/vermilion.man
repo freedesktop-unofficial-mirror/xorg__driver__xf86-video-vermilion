@@ -68,7 +68,7 @@ clocks supported).
 Enable a debug printout of the modesetting registers. Default: false.
 
 .SH "SEE ALSO"
-__xservername__(__appmansuffix__), __xconfigfile__(__filemansuffix__), xorgcfg(__appmansuffix__), xorgconfig(__appmansuffix__), Xserver(__appmansuffix__), X(__miscmansuffix__)
+__xservername__(__appmansuffix__), __xconfigfile__(__filemansuffix__), Xserver(__appmansuffix__), X(__miscmansuffix__)
 .SH AUTHORS
 Authors include: Michel Danzer <michel-at-tungstengraphics-dot-com>, Thomas Hellstrom <thomas-at-tungstengraphics-dot-com> and Alan Hourihane <alanh-at-tungstengraphics-dot-com>
 .TP
